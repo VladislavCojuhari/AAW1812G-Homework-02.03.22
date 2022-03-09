@@ -47,9 +47,14 @@ Buzu Andreea
 Cîșlean Alina
 <img scr="https://scontent.fkiv1-1.fna.fbcdn.net/v/t1.6435-9/94878010_2571940856364079_2803362653458661376_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EjLEYXE5a2kAX9EI6YN&_nc_ht=scontent.fkiv1-1.fna&oh=00_AT9LVlmjkvYuCK8iUtgltX2GZXKINoic7s4yxEmEfmn2gA&oe=624F0B01" width="100" height="150">
 </li>
+<li>
+Cojuhari Vladislav
+<img scr="https://instagram.fkiv1-1.fna.fbcdn.net/v/t51.2885-15/275320652_1131851680913863_8451676991909418282_n.webp?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fkiv1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=qvrvSyhBt4wAX-KFrKl&edm=AABBvjUBAAAA&ccb=7-4&oh=00_AT88huLqTOWxHOQ9YNdM-8cG9UZFst6mAGne3EiWuRxwdg&oe=623070E6&_nc_sid=83d603" width="100" height="150">
+</li>
 </ol>
 
-   
+
+
  
  </body>
 </html>
